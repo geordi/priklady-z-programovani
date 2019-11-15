@@ -1,5 +1,5 @@
 Geometrický obrazec, který máte v tomto cvičení sestavit, je zobrazen v
-různých velikostech na obrázku \[fig:Grid1\] na straně .
+různých velikostech na obrázcích níže.
 
 
 ```
